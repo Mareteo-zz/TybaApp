@@ -1,10 +1,11 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
-MERGED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:1:1-31:12
+MERGED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:1:1-31:12
+MERGED from [:@react-native-community_async-storage] /Users/mateo/Documents/TybaApp/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:@react-native-community_masked-view] /Users/mateo/Documents/TybaApp/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-gesture-handler] /Users/mateo/Documents/TybaApp/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-get-location] /Users/mateo/Documents/TybaApp/node_modules/react-native-get-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
@@ -66,13 +67,13 @@ INJECTED from /Users/mateo/Documents/TybaApp/android/app/src/debug/AndroidManife
 		INJECTED from /Users/mateo/Documents/TybaApp/android/app/src/debug/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:1:1-31:12
 		INJECTED from /Users/mateo/Documents/TybaApp/android/app/src/debug/AndroidManifest.xml
 	xmlns:tools
 		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/debug/AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:1:1-31:12
 		INJECTED from /Users/mateo/Documents/TybaApp/android/app/src/debug/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:1:11-69
@@ -80,10 +81,20 @@ uses-permission#android.permission.INTERNET
 ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:4:5-67
 	android:name
 		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:9:5-80
+MERGED from [:react-native-get-location] /Users/mateo/Documents/TybaApp/node_modules/react-native-get-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-81
+MERGED from [:react-native-get-location] /Users/mateo/Documents/TybaApp/node_modules/react-native-get-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:9:22-78
 application
-ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:6:5-24:19
-MERGED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:6:5-24:19
-MERGED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:6:5-24:19
+ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:11:5-29:19
+MERGED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:11:5-29:19
+MERGED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:11:5-29:19
 MERGED from [com.facebook.react:react-native:0.60.0] /Users/mateo/.gradle/caches/transforms-2/files-2.1/6420027be857ea4573e608f568e53ff5/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.react:react-native:0.60.0] /Users/mateo/.gradle/caches/transforms-2/files-2.1/6420027be857ea4573e608f568e53ff5/AndroidManifest.xml:11:5-20
 MERGED from [com.google.android.material:material:1.0.0] /Users/mateo/.gradle/caches/transforms-2/files-2.1/cbcf6dde9038ea8ca29cd440cc9ac7f2/AndroidManifest.xml:22:5-20
@@ -97,57 +108,59 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mate
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] /Users/mateo/.gradle/caches/transforms-2/files-2.1/7774e1ccb24607fea520e366f95c3673/AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:8:7-39
-		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:13:7-39
+		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:13:7-39
 	tools:ignore
 		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/debug/AndroidManifest.xml:7:75-114
 	android:roundIcon
-		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:10:7-52
-		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:15:7-52
+		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:15:7-52
 	tools:targetApi
 		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/debug/AndroidManifest.xml:7:54-74
 	android:icon
-		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:9:7-41
-		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:14:7-41
+		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:14:7-41
 	android:allowBackup
-		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:11:7-34
-		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:16:7-34
+		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:16:7-34
 	android:theme
-		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:12:7-38
-		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:17:7-38
+		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:17:7-38
 	android:usesCleartextTraffic
 		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/debug/AndroidManifest.xml:7:18-53
 	android:name
-		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:7:7-38
-		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:12:7-38
 activity#com.awesomeproject.MainActivity
-ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:13:7-22:18
+ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:18:7-27:18
 	android:label
-		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:15:9-41
+		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:20:9-41
 	android:windowSoftInputMode
-		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:17:9-51
+		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:22:9-51
 	android:configChanges
-		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:16:9-79
+		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:21:9-79
 	android:name
-		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:14:9-37
+		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:19:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:18:9-21:25
+ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:23:9-26:25
 action#android.intent.action.MAIN
-ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:19:13-65
+ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:24:13-65
 	android:name
-		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:19:21-62
+		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:24:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:20:13-73
+ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:25:13-73
 	android:name
-		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:20:23-70
+		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:25:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:23:7-84
+ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:28:7-84
 	android:name
-		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:23:17-81
+		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:28:17-81
 uses-sdk
 INJECTED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml
+MERGED from [:@react-native-community_async-storage] /Users/mateo/Documents/TybaApp/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] /Users/mateo/Documents/TybaApp/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:@react-native-community_masked-view] /Users/mateo/Documents/TybaApp/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:@react-native-community_masked-view] /Users/mateo/Documents/TybaApp/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-gesture-handler] /Users/mateo/Documents/TybaApp/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
@@ -262,7 +275,3 @@ uses-permission#android.permission.SYSTEM_ALERT_WINDOW
 ADDED from /Users/mateo/Documents/TybaApp/android/app/src/debug/AndroidManifest.xml:5:5-77
 	android:name
 		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/debug/AndroidManifest.xml:5:22-75
-uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from [:react-native-get-location] /Users/mateo/Documents/TybaApp/node_modules/react-native-get-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-81
-	android:name
-		ADDED from [:react-native-get-location] /Users/mateo/Documents/TybaApp/node_modules/react-native-get-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-78

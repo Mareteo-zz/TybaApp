@@ -1,4 +1,4 @@
-#Fri Feb 14 18:21:08 COT 2020
+#Fri Feb 14 21:59:48 COT 2020
 base.0=/Users/mateo/Documents/TybaApp/android/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

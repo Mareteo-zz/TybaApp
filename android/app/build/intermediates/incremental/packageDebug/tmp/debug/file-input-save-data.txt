@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri Feb 14 18:21:10 COT 2020
+#Fri Feb 14 21:59:51 COT 2020
 5.base=/Users/mateo/Documents/TybaApp/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
 42.base=/Users/mateo/Documents/TybaApp/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
 22.path=lib/x86/libyoga.so
