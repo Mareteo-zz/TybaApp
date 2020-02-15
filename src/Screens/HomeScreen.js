@@ -56,7 +56,7 @@ class HomeScreen extends Component {
             onChangeText={text => this.inputHandler("password", text)}
           />
           <Button
-						disabled={email === '' || password === ''}
+						//disabled={email === '' || password === ''}
             title="Log In"
             titleStyle={{ color: "white" }}
             buttonStyle={[customStyles.btn, { marginTop: 12 }]}

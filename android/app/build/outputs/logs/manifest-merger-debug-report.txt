@@ -7,6 +7,7 @@ INJECTED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifes
 MERGED from /Users/mateo/Documents/TybaApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
 MERGED from [:@react-native-community_masked-view] /Users/mateo/Documents/TybaApp/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-gesture-handler] /Users/mateo/Documents/TybaApp/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-get-location] /Users/mateo/Documents/TybaApp/node_modules/react-native-get-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-reanimated] /Users/mateo/Documents/TybaApp/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-safe-area-context] /Users/mateo/Documents/TybaApp/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-screens] /Users/mateo/Documents/TybaApp/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
@@ -151,6 +152,8 @@ MERGED from [:@react-native-community_masked-view] /Users/mateo/Documents/TybaAp
 MERGED from [:@react-native-community_masked-view] /Users/mateo/Documents/TybaApp/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-gesture-handler] /Users/mateo/Documents/TybaApp/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-gesture-handler] /Users/mateo/Documents/TybaApp/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-get-location] /Users/mateo/Documents/TybaApp/node_modules/react-native-get-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-get-location] /Users/mateo/Documents/TybaApp/node_modules/react-native-get-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-reanimated] /Users/mateo/Documents/TybaApp/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-reanimated] /Users/mateo/Documents/TybaApp/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-safe-area-context] /Users/mateo/Documents/TybaApp/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
@@ -259,3 +262,7 @@ uses-permission#android.permission.SYSTEM_ALERT_WINDOW
 ADDED from /Users/mateo/Documents/TybaApp/android/app/src/debug/AndroidManifest.xml:5:5-77
 	android:name
 		ADDED from /Users/mateo/Documents/TybaApp/android/app/src/debug/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:react-native-get-location] /Users/mateo/Documents/TybaApp/node_modules/react-native-get-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from [:react-native-get-location] /Users/mateo/Documents/TybaApp/node_modules/react-native-get-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-78

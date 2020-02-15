@@ -14,5 +14,9 @@ export default StyleSheet.create({
     paddingBottom: 20,
     paddingTop: 20,
     backgroundColor: THEME.ORANGE,
+  },
+  tiny: {
+    paddingBottom: 8,
+    paddingTop: 8,
   }
 });
